@@ -1,7 +1,7 @@
 # ayakacxy的个人主页
 
 ## 个人信息
-- **个人主页**: [ayakacxy.github.io](https://ayakacxy.github.io)
+- **个人主页**: [https://ayakacxy.github.io](https://github.com/ayakacxy/ayakacxy))
 - **邮件**: [cxy20031013@mail.ustc.edu.cn](mailto:cxy20031013@mail.ustc.edu.cn)
 
 ## 教育经历
