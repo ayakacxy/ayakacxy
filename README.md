@@ -1,7 +1,6 @@
-# 陈夏雨的个人主页
+# ayakacxy的个人主页
 
 ## 个人信息
-- **姓名**: 陈夏雨
 - **个人主页**: [ayakacxy.github.io](https://ayakacxy.github.io)
 - **邮件**: [cxy20031013@mail.ustc.edu.cn](mailto:cxy20031013@mail.ustc.edu.cn)
 
@@ -9,7 +8,11 @@
 - **中国科学技术大学 信息科学技术学院** · 电子信息  (2021.06 – 2022.09)
 - **中国科学技术大学 网络空间安全学院** · 信息安全 (2022.09 – 2024.08)
 
-## 科研项目
+## 项目经历
+- [Detection-of-AI-Text-Generation-Based-on-Pre-trained-Models](https://github.com/ayakacxy/Detection-of-AI-Text-Generation-Based-on-Pre-trained-Models)
+- [Image-Compression-Tool](https://github.com/ayakacxy/Image-Compression-Tool)
+- [Single-Table-Substitution-Decryption](https://github.com/ayakacxy/Single-Table-Substitution-Decryption)
+- [Route-Planning-for-Stanford](https://github.com/ayakacxy/Route-Planning-for-Stanford)
 
 ## 荣誉奖励
 - **2024 MCM美国大学生数学建模竞赛** M奖 (国际级) - 论文手 & 建模手 & 代码手 (2024.05)
