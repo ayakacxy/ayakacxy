@@ -9,7 +9,6 @@
 - **中国科学技术大学 网络空间安全学院** · 信息安全 (2022.09 – 2024.08)
 
 ## 项目经历
-- [Detection-of-AI-Text-Generation-Based-on-Pre-trained-Models](https://github.com/ayakacxy/Detection-of-AI-Text-Generation-Based-on-Pre-trained-Models)
 - [Image-Compression-Tool](https://github.com/ayakacxy/Image-Compression-Tool)
 - [Single-Table-Substitution-Decryption](https://github.com/ayakacxy/Single-Table-Substitution-Decryption)
 - [Route-Planning-for-Stanford](https://github.com/ayakacxy/Route-Planning-for-Stanford)
