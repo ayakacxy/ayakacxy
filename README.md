@@ -13,7 +13,7 @@ Information Security student at University of Science and Technology of China (U
 - Optimizing electrode parameters (current magnitude, position, etc.) using reinforcement learning
 - Supporting precise non-invasive regulation of deep brain regions
 
-### StarDetection - Multi-Domain Multi-Model AI-Generated Text Detection System (2024.04 - 2024.09)
+### StarDetection - Multi-Domain Multi-Model AI-Generated Text Detection System (2024.04 - Present)
 - Developed the complete backend system, including file processing and API implementation
 - Created cross-platform applications for major operating systems
 - GitHub: [https://github.com/ayakacxy/StarDetection](https://github.com/ayakacxy/StarDetection)
