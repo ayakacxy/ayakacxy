@@ -40,5 +40,3 @@ Information Security student at University of Science and Technology of China (U
 ## 📫 Contact Me
 - Email: cxy20031013@mail.ustc.edu.cn
 
----
-*I'm always interested in collaborating on projects related to AI, cybersecurity, and brain-computer interfaces.*
