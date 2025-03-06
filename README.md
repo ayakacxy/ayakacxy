@@ -8,7 +8,7 @@ Information Security student at University of Science and Technology of China (U
   - School of Cybersecurity
 
 ## 🔬 Research Projects
-### TIS Time-Domain Interference Stimulation Electrode Parameter Optimization (2024.08 - Present)
+### TIS Temporal Interference Stimulation Electrode Parameter Optimization (2024.08 - Present)
 - Building 3D anisotropic electrical conductivity finite element models of the human brain using MRI T1 structural images and DTI data
 - Optimizing electrode parameters (current magnitude, position, etc.) using reinforcement learning
 - Supporting precise non-invasive regulation of deep brain regions
