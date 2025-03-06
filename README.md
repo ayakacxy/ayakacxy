@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Chen Xiayu
+# 👋 Hi, I'm ayakacxy
 Information Security student at University of Science and Technology of China (USTC) with a passion for AI, cybersecurity, and brain-computer interfaces.
 
 ## 🎓 Education
