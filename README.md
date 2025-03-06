@@ -22,10 +22,6 @@ Information Security student at University of Science and Technology of China (U
   - Most Innovative Value Award in the 2024 National College Students Information Security Competition
   - First Place Investment Value Award in the 2024 China Cybersecurity Innovation and Entrepreneurship Competition
 
-### Composable Security Analysis of Cryptographic Protocols Based on LLMs (2023.12 - 2024.10)
-- Analyzing existing cryptographic protocols based on composable security
-- Researching the composable security of cryptographic protocols in multi-party secure computation based on large language models
-
 ## 🏆 Awards
 - First Place Investment Value Award in China Cybersecurity Innovation and Entrepreneurship Competition (2024.9)
 - First Prize in National College Students Information Security Competition (2024.8)
